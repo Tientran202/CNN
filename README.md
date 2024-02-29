@@ -1,4 +1,4 @@
-Bước 1: Chúng em load file X_train, Y_train, X_test
+Bước 1: Load file X_train, Y_train, X_test
 
 Bước 2: 
     - Chuyển ảnh về dạng 28*28 (Chuyển mảng dữ liệu của ảnh về dạng 28 * 28)
