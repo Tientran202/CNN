@@ -1,3 +1,5 @@
+Môn Thị giác máy tính - bài tập của Tiến 3/12/2023 -> 10/12/2023
+
 Bước 1: Load file X_train, Y_train, X_test
 
 Bước 2: 
